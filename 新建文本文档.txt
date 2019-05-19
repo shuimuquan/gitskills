@@ -1,0 +1,15 @@
+Imggerb90
+    rowsMac1Region_gerb := [350 ,350,  790, 790] 
+    colsMac1Region_gerb := [105,  383, 383, 105] 
+    rowsMac2Region_gerb := [1760 , 1760, 2090 ,2090]
+    colsMac2Region_gerb := [98,363,  363, 98]
+    rowsMac3Region_gerb := [1250,  1250,  1535,  1535]
+    colsMac3Region_gerb :=  [5546,  5813,  5813,  5546]
+
+back180
+    rowsMac1Region_gerb := [100, 100,  334, 334] 
+    colsMac1Region_gerb := [930, 1258, 1258, 930] 
+    rowsMac2Region_gerb := [73 , 73, 350, 350]
+    colsMac2Region_gerb := [1713,1976,1976, 1713]
+    rowsMac3Region_gerb := [170,  170,  290,  290]
+    colsMac3Region_gerb :=  [4845,  4975,  4975,  4875]
